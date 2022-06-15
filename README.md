@@ -1,5 +1,7 @@
-# PHYS3466 - Math-Phys methods at LU (Winter 2021)
+# PHYS3466 MathPhys Methods at LU (Winter 2021)
 
-Jupyter notebooks introduced at the Math-Phys course PHYS3466 at Laurentian University.
+The Jupyter notebooks I introduced at the MathPhys course at Laurentian University during the Winter 2021 semester.
 
-This course covers complex numbers, comples analysis and then Fourier analysis. The notebooks are aimed at Fourier series, transforms and convolutions.
+- This course covers complex numbers, complex (Cauchy) analysis and then Fourier analysis. 
+
+- The notebooks are aimed at Fourier series, transforms and convolutions.
